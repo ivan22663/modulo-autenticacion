@@ -10,10 +10,11 @@ Desarrollar un módulo de autenticación con login, registro y dashboard para lo
 3. Como usuario autenticado quiero ver mi dashboard con información personalizada.
 
 ## GitHub Project
-[[Accede al tablero aquí](https://github.com/users/ivan22663/projects/7/views/1)
+[Accede al tablero aquí](https://github.com/users/ivan22663/projects/7/views/1)
 
 ##  Integrantes del equipo
-- @usuario1 - Análisis y documentación
-- @usuario2 - thomas felipe acosata
-- @usuario3 - Desarrollo backend
-- @usuario4 - Pruebas y QA
+ivan22663-Analisis de requisitos
+felipelandinez-Diseño de interfaz de inicio de sesion
+cuadros11-Desarrollo de logica de autenticacion 
+cuadros11,felipelandinez,ivan22663-Pruebas unitarias de login y registro
+felipelandinez,ivan22663-Documental README instrucciones
